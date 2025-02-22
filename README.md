@@ -205,7 +205,7 @@ ___
 ---
 # Σύνδεσμοι - Αναφορές
 
-Λίστα με βίντεο λειτουργίας και διαμόρφωσης (playlist) https://www.youtube.com/playlist?list=PL3BpHR7KN3z0Z_yPWOqG21N4b3Il0HUds
+Λίστα με βίντεο λειτουργίας και διαμόρφωσης (playlist) https://www.youtube.com/channel/UCWkN9GRcy-cdKsbBie1HwAw
 
 Περιγραφή του έργου στη σελίδα του διαγωνισμού στο ΕΛΛΑΚ
-<a href="https://openedtech.ellak.gr/robotics2024/psifiakos-ichitikos-voithos-stin-taxi/" target="_blank">[https://openedtech.ellak.gr/robotics2024/psifiakos-ichitikos-voithos-stin-taxi/](https://openedtech.ellak.gr/robotics2024/psifiakos-ichitikos-voithos-stin-taxi/)</a>
+<a href="https://openedtech.ellak.gr/" target="_blank">[https://openedtech.ellak.gr/](https://openedtech.ellak.gr/)</a>
