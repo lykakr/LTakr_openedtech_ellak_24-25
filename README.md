@@ -111,7 +111,9 @@ ___
 # Βασικά μέρη του συστήματος
 Το βασικά μέρη του συστήματος μας περιγράφεται παρακάτω 
 
-![](images/connection.webp)
+<!--![](images/connection.webp)-->
+<img src="images/connection.webp" alt="Open Source HardWare- SoftWare" width="500"/>
+
 
 ## 1. Κεντρικός server του συστήματος
 
