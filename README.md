@@ -14,10 +14,10 @@ ___
 
 ---
 
-![](images/niceplace.webp)
+![1111](images/niceplace.webp)
 
 
-![](images/a.jpg)
+![2222](images/a.jpg)
 
 
 >  *<font size="3"> Σημείωση : Οι παραπάνω εικόνες έχουν παραχθεί με  τεχνητή νοημοσύνη , <br> και  προσπαθούν να απεικονίζουν σφαιρικά  και όχι με ιδιαίτερες λεπτομέρειες την κεντρική ιδέα του προτεινόμενου έργου  (δίνεται έμφαση στο αποτέλεσμα και την περιγραφή του ) .  <br>Προφανώς τεχνικά δεν είναι ακριβής και δεν αποτελούν   την απεικόνιση του τελικού παραδοτέου έργου </font>*
@@ -112,7 +112,8 @@ ___
 Το βασικά μέρη του συστήματος μας περιγράφεται παρακάτω 
 
 <!--![](images/connection.webp)-->
-<img src="images/connection.webp" alt="Open Source HardWare- SoftWare" width="500"/>
+<img src="images/connection.webp" alt="Open Source HardWare- SoftWare" width="500" align="center" />
+
 
 
 ## 1. Κεντρικός server του συστήματος
