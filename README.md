@@ -112,7 +112,7 @@ ___
 Το βασικά μέρη του συστήματος μας περιγράφεται παρακάτω 
 
 <!--![](images/connection.webp)-->
-<img src="images/connection.webp" alt="Open Source HardWare- SoftWare" width="60%" align="center" />
+<p align="center"><img src="images/connection.webp" alt="Open Source HardWare- SoftWare" width="60%" align="center" /></p>
 
 
 
