@@ -223,8 +223,8 @@ ___
 * 2 τεμ. Χ Αισθητήρας Υγρασίας	
 * 2 τεμ. Χ Αισθητήρας θερμοκρασίας	
 * 2 τεμ. Χ Ποτενσιόμετρο Linear 	
-* 1 τεμ. Χ Μπουτόν - Momentary	
-* 1 τεμ. Χ Power adapter 5V - 2A	
+* 2 τεμ. Χ Μπουτόν - Momentary	
+* 2 τεμ. Χ Power adapter 5V - 3A	
 * 2 τεμ. Χ Πλακέτα Δοκιμών (Breadboard)	
 * 1 τεμ. Χ Διακόπτες -  Switch Assortment Kit 	
 * Ακροδεκτες Καλώδια - Terminal Assortment Kit 	
