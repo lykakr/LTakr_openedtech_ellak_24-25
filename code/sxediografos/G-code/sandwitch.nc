@@ -1,4 +1,3 @@
-(http://www.yzhrobot.com Youzhihui)
 G0Z20.000
 G0X0.000Y0.000
 

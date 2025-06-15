@@ -1,4 +1,3 @@
-(http://www.yzhrobot.com Youzhihui)
 G21
 G90
 
