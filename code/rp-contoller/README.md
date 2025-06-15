@@ -11,6 +11,8 @@
 Πλάγια όψη
 <p align="center"><img alt="Raspberry Pi Touch Display 2 with HA Kiosk - Πρόσοψη " src="../../images/pi-kiosk-3.jpg" height="auto" width="600"></p>
 
+Ολοκληρωμένη αρχική Κατασκευή
+<p align="center"><img alt="Raspberry Pi Touch Display 2 with HA Kiosk - Πρόσοψη " src="https://github.com/geerlingguy/pi-kiosk/raw/master/resources/pi-touch-display-kiosk.jpeg" height="auto" width="600"></p>
 Στο έργο  μας αυτό  θέλαμε ο κεντρικός εξυπηρετητής να είναι αφοσιωμένος σε συγκερκιμμένη οθόνη (να τρέχει εξαρχής και σε πλήρη οθόνη λογισμικά  που θα ορίσουμε εμείς ).Οι παρακάτω οδηγίες έχουν ως αποτέλεσμα  την απλούστερη μορφή ενός "επίμονου" περιηγητή τύπου kiosk βασισμένου σε Raspberry Pi.
 
 Οι διατάξεις τύπου kiosk είναι χρήσιμες όταν θέλουμε να δημιουργήσουμε έναν πίνακα ελέγχου  και να τον εμφανίζει το Pi ή να παίζει αυτόματα μία προσαρμοσμένη ιστοσελίδα ή ένα διαδικτυακό βίντεο κατά την εκκίνηση του Pi σε πλήρη οθόνη.
@@ -56,7 +58,7 @@ sudo systemctl enable kiosk.service
 sudo systemctl start kiosk
 ```
 
-## Rotating the Screen
+## Περιστροφή της οθόνης
 
 Για να περιστρέψετε άμεσα την οθόνη αφής, μπορείτε να εκτελέσετε:
 
